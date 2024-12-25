@@ -10,3 +10,8 @@ const hobbies=['music','movies','sports'];
 const person={name:'Jane',age:20,isStudent:true, course:'Nursing'};
 
 console.log(`Name: ${name} (Type: ${typeof name})`);
+console.log(`Age: ${age} (Type: ${typeof age})`);
+console.log(`isStudent: ${isStudent} (Type: ${typeof isStudent})`);
+console.log(`Hobbies: ${hobbies} (Type: ${typeof hobbies})`);
+console.log(`Person: ${person} (Type: ${typeof person})`);
+
