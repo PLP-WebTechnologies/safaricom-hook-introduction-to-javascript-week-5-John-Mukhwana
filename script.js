@@ -15,3 +15,7 @@ console.log(`isStudent: ${isStudent} (Type: ${typeof isStudent})`);
 console.log(`Hobbies: ${hobbies} (Type: ${typeof hobbies})`);
 console.log(`Person: ${person} (Type: ${typeof person})`);
 
+// 2. Operators
+ const calculator =()=>{
+    
+ }
